@@ -27,7 +27,7 @@
     <keywords>cordova,wkwebview,webview</keywords>
     <repo>https://github.com/globules-io/cordova-plugin-ios-xhr.git</repo>
     <engines>
-      <engine name="cordova-ios" version=">=6.0.0" />
+      <engine name="cordova-ios" version=">=6.3.0" />
       <engine name="apple-ios" version=">=9.0" />
     </engines>
 
